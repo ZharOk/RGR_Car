@@ -1,0 +1,5 @@
+<map id="AnotherCar" name="AnotherCar">
+<area shape="rect" id="node3" href="$class_quadrocycle.html" title="{Quadrocycle\n||+ Quadrocycle()\l+ ~Quadrocycle()\l}" alt="" coords="5,535,128,627"/>
+<area shape="rect" id="node4" href="$class_trailer_car.html" title="{TrailerCar\n||}" alt="" coords="152,542,229,619"/>
+<area shape="rect" id="node2" href="$class_trans_help.html" title="Class TransHelp. " alt="" coords="41,5,215,303"/>
+</map>

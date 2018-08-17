@@ -1,0 +1,5 @@
+<map id="TrailerCar" name="TrailerCar">
+<area shape="rect" id="node2" href="$class_another_car.html" title="{AnotherCar\n||+ AnotherCar()\l+ ~AnotherCar()\l+ setMaxSpeed()\l+ setMaxGasoline()\l+ isMainCar()\l}" alt="" coords="24,351,160,487"/>
+<area shape="rect" id="node3" href="$class_trans_help.html" title="Class TransHelp. " alt="" coords="5,5,179,303"/>
+<area shape="rect" id="node4" href="$class_trailer.html" title="Class Trailer. Empty Class. " alt="" coords="184,365,269,472"/>
+</map>

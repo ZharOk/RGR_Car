@@ -1,0 +1,162 @@
+body {
+	min-width: 960px;
+	background: url(bg.jpg);
+}
+.text {
+    width: 70%;
+	background: #FFFFCC;
+	overflow: auto;
+	position: absolute;
+	border-radius: 15px;
+	box-shadow: 0 3px 5px #c4c2c2;
+	top: 140px;
+	padding: 10px 40px;
+	margin-left: 270px;
+	bottom: 15px;
+}
+
+.text img, #tab {
+    width: 100%;
+}
+
+footer
+{
+	margin-top: 15%;
+	width: 230px;
+	padding: 10px;
+	background: #FFFF99;
+}
+
+table.image {
+	border: 0px;
+ 	position: relative;
+ 	left: 10px;
+  	top: 150px;
+	opacity:0.7;
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=50);
+}
+
+.topMenu {
+	width: 900px;
+	margin: 0 auto;
+	height: 20px;
+	margin-top: 30px;
+}
+
+.topMenu li {
+	font-family: "CenturyGothicRegular","Century Gothic",Arial,Helvetica,sans-serif;
+	margin-left: 30px;
+	font-size: 20px;
+	float: left;
+	list-style: none;
+}
+
+.topMenu li a:hover {
+	color: black;
+}
+
+.topMenu li .active {
+	font-weight: bold;
+}
+
+.home {
+	position: absolute;
+	right: 15px;
+	top: 10px;
+}
+
+A {
+    color: black;
+	text-decoration:none;
+}
+
+A:visited {
+    color: black;
+	text-decoration:none;
+}
+
+A:active {
+   	color: black;
+	text-decoration:none;
+}
+
+A:hover {
+   	color: #8199b4; 
+	text-decoration:underline;
+}
+
+.start {
+	position: absolute;
+	left: 545px;
+	bottom: 60px;
+}
+
+td.w {
+	width: 30px;
+	text-decoration: underline;
+}
+
+/*------ MENU -------*/
+
+.topnav {
+    font-family: "CenturyGothicRegular","Century Gothic",Arial,Helvetica,sans-serif;
+    padding: 40px 28px 25px 0;
+    width: 240px;
+}
+ul.topnav {
+    font-size: 1em;
+    line-height: 0.5em;
+    list-style: none outside none;
+    margin: 40px 10px;
+    padding: 0;
+}
+ul.topnav li {
+}
+ul.topnav li a {
+    color: #000;
+    display: block;
+    font-size: 11px;
+    font-weight: bolder;
+    line-height: 10px;
+    padding: 10px 5px;
+    text-decoration: none;
+    background: #FFFF99;
+    border-bottom: 1px solid #FF9900;
+}
+ul.topnav li a:hover {
+    background-color: #ffa21a;
+    color: white;
+}
+ul.topnav ul {
+    display: none;
+    margin: 0;
+    padding: 0;
+}
+ul.topnav ul li {
+    clear: both;
+    margin: 0;
+    padding: 0;
+}
+ul.topnav ul li a {
+    font-size: 10px;
+    font-weight: normal;
+    outline: 0 none;
+    padding-left: 20px;
+}
+ul.topnav ul li a:hover {
+    background-color: #DCDCDC;
+    color: #555;
+}
+ul.topnav ul ul li a {
+    color: silver;
+    padding-left: 40px;
+}
+ul.topnav ul ul li a:hover {
+    background-color: #D7D7D7;
+    color: #555555;
+}
+ul.topnav span {
+    float: right;
+}
+
+/*------ END_OF_MENU -------*/

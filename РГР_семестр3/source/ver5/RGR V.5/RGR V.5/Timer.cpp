@@ -1,0 +1,48 @@
+
+
+#include "Timer.h"
+#include <time.h>
+#include<stdlib.h>
+#include <iostream>
+using namespace std;
+////////////////////////////////////////////////////////////////////////
+// Name:       Timer::startTimer()
+// Purpose:    Implementation of Timer::startTimer()
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+Timer::Timer()
+{
+	currTime=0;
+	/*cout << "Timer created"<< endl;*/
+}
+
+Timer::~Timer()
+{
+	/*cout << "timer destroyed\n";*/
+}
+void Timer::increaseTimer(void)
+{
+	currTime++;  
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       Timer::getTime()
+// Purpose:    Implementation of Timer::getTime()
+// Return:     int
+////////////////////////////////////////////////////////////////////////
+
+int Timer::getTime(void) const
+{
+	return currTime;
+}
+
+////////////////////////////////////////////////////////////////////////
+// Name:       Timer::stopTimer()
+// Purpose:    Implementation of Timer::stopTimer()
+// Return:     void
+////////////////////////////////////////////////////////////////////////
+
+void Timer::stopTimer(void)
+{
+   
+}

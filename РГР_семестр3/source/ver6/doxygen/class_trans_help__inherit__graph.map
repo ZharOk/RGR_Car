@@ -1,0 +1,4 @@
+<map id="TransHelp" name="TransHelp">
+<area shape="rect" id="node2" href="$class_another_car.html" title="{AnotherCar\n||+ AnotherCar()\l+ ~AnotherCar()\l+ setMaxSpeed()\l+ setMaxGasoline()\l+ isMainCar()\l}" alt="" coords="5,358,141,494"/>
+<area shape="rect" id="node3" href="$class_motorcycle.html" title="{Motorcycle\n||+ Motorcycle()\l+ ~Motorcycle()\l+ setMaxSpeed()\l+ setmaxGasoline()\l+ getAmountWheels()\l+ isCarriage()\l}" alt="" coords="165,351,315,501"/>
+</map>

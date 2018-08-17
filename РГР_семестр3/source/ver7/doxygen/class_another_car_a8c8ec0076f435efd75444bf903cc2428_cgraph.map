@@ -1,0 +1,26 @@
+<map id="AnotherCar::AnotherCar" name="AnotherCar::AnotherCar">
+<area shape="rect" id="node2" href="$main_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="213,461,264,488"/>
+<area shape="rect" id="node3" href="$class_planer.html#a4c0b5571a2ec5782573921c01234360e" title="Start of Planer. " alt="" coords="331,411,425,437"/>
+<area shape="rect" id="node4" href="$class_planer.html#a5d609e1a96699a15fc306190e30bc936" title="Main Metod of Planer. " alt="" coords="312,461,444,488"/>
+<area shape="rect" id="node25" href="$class_planer.html#af1ec073f1b76626ee8c96b7b351e9fb3" title="Finish of Planer. " alt="" coords="329,512,427,539"/>
+<area shape="rect" id="node5" href="$class_tour.html#ae0192e933434e1fa57b13a0c7ab3fe33" title="Get current speed. " alt="" coords="540,5,675,32"/>
+<area shape="rect" id="node6" href="$class_roads.html#a788eb74dcc58daf04374bf2be8b728d7" title="Get speed Limit. " alt="" coords="532,56,683,83"/>
+<area shape="rect" id="node7" href="$class_car.html#a65c4fd3ff098f8213d1051efd71c0aa1" title="Get max speed. " alt="" coords="542,107,673,133"/>
+<area shape="rect" id="node8" href="$class_tour.html#a3715fbf6ff272157ed12f7047f0617bc" title="Change speed. " alt="" coords="540,157,675,184"/>
+<area shape="rect" id="node9" href="$class_tour.html#aedbaab70bbf6a21a8e96ae8a0458a21d" title="Get Tour Length. " alt="" coords="539,208,676,235"/>
+<area shape="rect" id="node10" href="$class_car.html#ae50907a9ea06c2c02abb8c6add18efd9" title="Return Gasoline Status. " alt="" coords="529,259,686,285"/>
+<area shape="rect" id="node11" href="$class_tour.html#a8f41c92910830445bd590e9a86e7d6bc" title="Time of Tour. " alt="" coords="553,309,661,336"/>
+<area shape="rect" id="node12" href="$class_possible_obstacle.html#a2a511f48a772eadfc62dd81402c4bd11" title="Get obstacle type on the road;. " alt="" coords="492,360,723,387"/>
+<area shape="rect" id="node13" href="$class_roads.html#ad15eebc63322415092d01c746231de15" title="Change Speed LImit, by random. " alt="" coords="520,411,695,437"/>
+<area shape="rect" id="node14" href="$class_car.html#a01781c2f1d1d850689b7c5d825be524b" title="Change Car Status. " alt="" coords="544,461,671,488"/>
+<area shape="rect" id="node15" href="$class_car.html#acd58a3473218f274ddd72da371f63dc7" title="Return Car Status. " alt="" coords="544,512,671,539"/>
+<area shape="rect" id="node16" href="$class_tour.html#a22a7257c8cc5d807f1eb24a3eccb310e" title="Set Tour Time. " alt="" coords="544,563,671,589"/>
+<area shape="rect" id="node17" href="$_planer_8cpp.html#a4fc159730b5af36b2959b39c9c573636" title="YesOrNo" alt="" coords="570,613,645,640"/>
+<area shape="rect" id="node18" href="$_tour_8cpp.html#abc009cb3895fb5908dc92ce09b9e41d5" title="setSpeed" alt="" coords="569,664,646,691"/>
+<area shape="rect" id="node19" href="$class_tour.html#abe909dcc942a86462e8391e4fe456665" title="Tour Lenght. " alt="" coords="537,715,677,741"/>
+<area shape="rect" id="node20" href="$class_car.html#a48af6bb7f650318445a6aca8e51a34fb" title="Change Gasoline Status. " alt="" coords="517,765,698,792"/>
+<area shape="rect" id="node21" href="$class_car.html#a839d144ae61e45257516bd56200231f1" title="Consumpted during Gasoline. " alt="" coords="523,816,691,843"/>
+<area shape="rect" id="node22" href="$class_roads.html#a2c5edf1bcec8e2b5773bd8bb9521582b" title="Crashing on the Road. " alt="" coords="558,867,657,893"/>
+<area shape="rect" id="node23" href="$class_roads.html#a8ab33927ae25761cb277426163f32295" title="Define crash level. " alt="" coords="525,917,689,944"/>
+<area shape="rect" id="node24" href="$class_car.html#afce6edec305114f63db31712f7c7a218" title="Set summer tiers. " alt="" coords="771,917,908,944"/>
+</map>

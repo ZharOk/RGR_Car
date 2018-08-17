@@ -1,0 +1,6 @@
+<map id="Planer" name="Planer">
+<area shape="rect" id="node2" href="$class_tour.html" title="Class Tour. " alt="" coords="5,307,132,501"/>
+<area shape="rect" id="node3" href="$class_roads.html" title="Class Roads. " alt="" coords="157,329,306,479"/>
+<area shape="rect" id="node4" href="$class_car.html" title="class Car " alt="" coords="145,5,318,244"/>
+<area shape="rect" id="node5" href="$class_timer.html" title="Class Timer. " alt="" coords="330,336,453,472"/>
+</map>
